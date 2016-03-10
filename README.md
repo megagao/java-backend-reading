@@ -13,6 +13,10 @@
 
 1. [浅谈JVM的实现与垃圾回收机制](http://wwsun.me/posts/jvm-gc.html)
 
+##Concurrency
+
+1. [Java并发编程的艺术](http://book.douban.com/subject/26591326/)
+
 ## Collection API
 
 1. [关于Java集合的小抄](http://calvin1978.blogcn.com/articles/collection.html)
